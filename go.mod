@@ -1,4 +1,4 @@
-module github.com/zeptonow/kratos/v2
+module github.com/harshitraj1/kratos/v2
 
 go 1.22
 
